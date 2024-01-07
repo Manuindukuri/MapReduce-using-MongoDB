@@ -10,6 +10,7 @@
 
 ## Overview
 The project is a comprehensive exploration of how MapReduce and the Aggregation Pipeline within MongoDB can be harnessed for processing and analyzing substantial datasets. It encompasses various datasets, notably the NYSE stock prices and the Movielens movie ratings, and leverages both MapReduce and the Aggregation Pipeline for effective data analysis. Additionally, it delves into web access log analysis using Java and MongoDB.
+> **_NOTE:_** Please visit ProjectGoals.png image to get the detailed objectives for this project
 
 ![Alt text](<Image.png>)
 
