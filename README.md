@@ -1,12 +1,12 @@
 # MapReduce and MongoDB 
 
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/java-yellow?style=for-the-badge&logo=openjdk&logoColor=white)](https://dev.java/)
 [![Static Badge](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB)](https://www.mongodb.com/)
-[![Static Badge](https://img.shields.io/badge/java-blue?style=for-the-badge&logo=java)](https://dev.java/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Static Badge](https://img.shields.io/badge/mapreduce-yellow?style=for-the-badge)](https://www.databricks.com/glossary/mapreduce)
 [![Static Badge](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux)](https://www.linux.org/)
-[![Static Badge](https://img.shields.io/badge/shell-grey?style=for-the-badge&logo=shell)](https://www.shellscript.sh/)
+[![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.shellscript.sh/)
+![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+[![Static Badge](https://img.shields.io/badge/mapreduce-yellow?style=for-the-badge)](https://www.databricks.com/glossary/mapreduce)
 
 ## Overview
 The project is a comprehensive exploration of how MapReduce and the Aggregation Pipeline within MongoDB can be harnessed for processing and analyzing substantial datasets. It encompasses various datasets, notably the NYSE stock prices and the Movielens movie ratings, and leverages both MapReduce and the Aggregation Pipeline for effective data analysis. Additionally, it delves into web access log analysis using Java and MongoDB.
